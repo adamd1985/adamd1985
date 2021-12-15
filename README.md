@@ -7,6 +7,6 @@ Hey all :wave:, Adam here! Career Activist, Product Maker, Community Builder and
 <p align='center'>If agile is your cup of tea, I am the founder of <b>Scrumday Malta</b>. I have closed the organization after a great run lasting three years but our courses, local-affiliation and network is still available on demand. Direct an email to me from the above address.</p>
 
 <p align="center">
-  <a href="https://callforatlas.com"><img width="200" src="https://github.com/adamd1985/adamd1985/blob/main/cfalogo.png" alt="Social banner for Call for Atlas"></a>
-  <img width="300" src="https://github.com/adamd1985/adamd1985/blob/main/sdm-logo-transpr.png" alt="Social banner for Call for Scrumday Malta">
+  <a href="https://callforatlas.com"><img width="200" src="https://github.com/adamd1985/adamd1985/blob/master/cfalogo.png" alt="Social banner for Call for Atlas"></a>
+  <img width="300" src="https://github.com/adamd1985/adamd1985/blob/master/sdm-logo-transpr.png" alt="Social banner for Call for Scrumday Malta">
 </p>
