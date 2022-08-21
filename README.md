@@ -12,7 +12,7 @@ Hey all :wave:, Adam here! Career Activist, Product Maker, Community Builder and
   <img width="300" src="https://github.com/adamd1985/adamd1985/blob/master/sdm-logo-transpr.png" alt="Social banner for Call for Scrumday Malta">
 </p>
 
-<p align='center'>If you love what I do, and what to show support, a cup of java will do!</p>
+<p align='center'>If you love what I do, and want to show support, a cup of java will do!</p>
 <p align="center">
   </a>
     <img width="300" src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMi8wOC9IOEFwTHBXNmcxZVBjR1NnLmpwZ0AzMDB3XzBlLndlYnA=&creator=AdamadA&design_code=1&design_color=%23ff813f&slug=AdamadA" alt="Buy me a coffee">
