@@ -5,7 +5,7 @@ Hey all :wave:, Adam here! Career Activist, Product Maker, Community Builder and
 <p align='center'>Me on writings and tech-blogging can be found on <a href="https://medium.com/@adamdarmanin">Meduim</a> and you should make use of my apps on <a href="https://replit.com/@radmada">Replit</a>
 </p>
 <p align='center'>You can engage me or my Atlas fellows by email: <i>info <b>AT</b> callforatlas.com</i> or from <a href="https://callforatlas.com">Call For Atlas</a>.</p>
-<p align='center'>If agile is your cup of tea, I am the founder of <b>Scrumday Malta</b>. I have closed the organization after a great run lasting three years but our courses, local-affiliation and network is still available on demand. Direct an email to me from the above address.</p>
+<p align='center'>If agile is your cup of tea, I was the founder of <b>Scrumday Malta</b> and still maintain affiliations and networks, which I offer on demand. Direct an email to me from the above address.</p>
 
 <p align="center">
   <a href="https://callforatlas.com"><img width="200" src="https://github.com/adamd1985/adamd1985/blob/master/cfalogo.png" alt="Social banner for Call for Atlas"></a>
