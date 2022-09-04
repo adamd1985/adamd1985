@@ -15,7 +15,7 @@ Hey all :wave:, Adam here! Career Activist, Product Maker, Community Builder and
 <p align='center'>If you love what I do, and want to show support, a cup of java will do!</p>
 <p align="center">
     <a href="https://www.buymeacoffee.com/AdamadA">
-    <img width="550" src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMi8wOC9IOEFwTHBXNmcxZVBjR1NnLmpwZ0AzMDB3XzBlLndlYnA=&creator=AdamadA&design_code=1&design_color=%23ff813f&slug=AdamadA" alt="Buy me a coffee"/>
+    <img width="450" src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMi8wOC9IOEFwTHBXNmcxZVBjR1NnLmpwZ0AzMDB3XzBlLndlYnA=&creator=AdamadA&design_code=1&design_color=%23ff813f&slug=AdamadA" alt="Buy me a coffee"/>
   </a>
   </p>
 </p>
