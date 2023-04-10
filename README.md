@@ -1,4 +1,4 @@
-<h1 align='center'> Madam I'm Adam!</h1>
+<h1 align='center'> Hi I'm Adam!</h1>
 <p align='center'>
 Hey all :wave:, Adam here! Technologist, Career Activist, and Product Maker. Follow me on <a href="https://www.producthunt.com/@adam_darmanin1">Product Hunt</a>
 </p>
