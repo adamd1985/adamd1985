@@ -4,7 +4,7 @@ Hey all :wave:, Adam here! Technologist, Career Activist, and Product Maker. Fol
 </p>
 <p align='center'>My tech-blogging can be found on <a href="https://medium.com/@adamdarmanin">Meduim</a>, and should you want to make use of my apps: <a href="https://replit.com/@radmada">Replit</a>
 </p>
-<p align='center'>You can engage me or my Atlas fellows by email: <i>adarmanin.callforatlas <b>AT</b> gmail.com</i> or from <a href="https://callforatlas.com">Call For Atlas</a>.</p>
+<p align='center'>You can engage me or my Atlas fellows,  here: <a href="https://callforatlas.com/contactus">Call For Atlas</a>.</p>
 <p align='center'>If agile is your cup of tea, I was the founder of <b>Scrumday Malta</b> and still maintain affiliations and networks, which I offer on request. Direct an email to me from the above address.</p>
 
 <p align="center">
