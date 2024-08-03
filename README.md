@@ -12,7 +12,7 @@ I'm a Technologist, Principal Engineer, AI, and Financial Engineer.
 
 <p align="center">
   <a href="https://callforatlas.com"><img width="200" src="https://github.com/adamd1985/adamd1985/blob/master/hecatus_whitelogo.png" alt="Social banner for Hecatus Research"></a>
-  <a href="https://callforatlas.com"><img width="200" src="https://github.com/adamd1985/adamd1985/blob/master/cfalogo.png" alt="Social banner for Call for Atlas"></a>
+  <a href="https://callforatlas.com"><img width="180" src="https://github.com/adamd1985/adamd1985/blob/master/cfalogo.png" alt="Social banner for Call for Atlas"></a>
   <img width="300" src="https://github.com/adamd1985/adamd1985/blob/master/sdm-logo-transpr.png" alt="Social banner for Call for Scrumday Malta">
 </p>
 
