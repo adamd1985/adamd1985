@@ -4,9 +4,10 @@ I'm a Technologist, Principal Engineer, and AI Product Maker. Follow me on <a hr
 </p>
 <p align='center'>My tech-blogging can be found on <a href="https://medium.com/@adamdarmanin">Meduim</a>, and should you want to make use of my apps: <a href="https://replit.com/@radmada">Replit</a>
 </p>
-<p align='center'>You can engage me or my Atlas fellows,  here: <a href="https://callforatlas.com/contactus">Call For Atlas</a>.</p>
+
 <p align='center'>If agile is your cup of tea, I was the founder of <b>Scrumday Malta</b> and still maintain affiliations and networks, which I offer on request. Direct an email to me from the above address.</p>
 <p align='center'>I was technical Co-Founder, and CTO in an AI Start-Up in YCombinator's 2019 list, called ProdX.AI.</p>
+<p align='center'>I was managing partner of the advisory Call For Atlas</a>.</p>
 
 <p align="center">
   <a href="https://callforatlas.com"><img width="200" src="https://github.com/adamd1985/adamd1985/blob/master/cfalogo.png" alt="Social banner for Call for Atlas"></a>
