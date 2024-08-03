@@ -1,15 +1,17 @@
 <h1 align='center'>Hey :wave: Adam here!</h1>
 <p align='center'>
-I'm a Technologist, Principal Engineer, and AI Product Maker. Follow me on <a href="https://www.producthunt.com/@adam_darmanin1">Product Hunt</a>
+I'm a Technologist, Principal Engineer, AI, and Financial Engineer.
 </p>
 <p align='center'>My tech-blogging can be found on <a href="https://medium.com/@adamdarmanin">Meduim</a>, and should you want to make use of my apps: <a href="https://replit.com/@radmada">Replit</a>
 </p>
 
 <p align='center'>If agile is your cup of tea, I was the founder of <b>Scrumday Malta</b> and still maintain affiliations and networks, which I offer on request. Direct an email to me from the above address.</p>
 <p align='center'>I was technical Co-Founder, and CTO in an AI Start-Up in YCombinator's 2019 list, called ProdX.AI.</p>
-<p align='center'>I was managing partner of the advisory Call For Atlas</a>.</p>
+<p align='center'>I was managing partner of the advisory <a>Call For Atlas</a>.</p>
+<p align='center'>I am managing partner of the quantitative research advisory <a>Hecatus Research</a>.</p> 
 
 <p align="center">
+  <a href="https://callforatlas.com"><img width="200" src="https://github.com/adamd1985/adamd1985/blob/master/hecatus_whitelogo.png" alt="Social banner for Hecatus Research"></a>
   <a href="https://callforatlas.com"><img width="200" src="https://github.com/adamd1985/adamd1985/blob/master/cfalogo.png" alt="Social banner for Call for Atlas"></a>
   <img width="300" src="https://github.com/adamd1985/adamd1985/blob/master/sdm-logo-transpr.png" alt="Social banner for Call for Scrumday Malta">
 </p>
