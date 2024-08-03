@@ -6,7 +6,7 @@ I'm a Technologist, Principal Engineer, AI, and Financial Engineer.
 </p>
 
 <p align='center'>If agile is your cup of tea, I was the founder of <b>Scrumday Malta</b> and still maintain affiliations and networks, which I offer on request. I was technical Co-Founder, and CTO in an AI Start-Up in YCombinator's 2019 list, called <b>ProdX.AI</b>. I was managing partner of the advisory <b>Call For Atlas</b>.</p>
-<p align='center'>I am managing partner of the quantitative research advisory <a>Hecatus Research</a>.</p> 
+<p align='center'>I run with my partners the quantitative research advisory <b>Hecatus Research</b>.</p> 
 
 <p align="center">
   <a href="https://callforatlas.com"><img width="200" src="https://github.com/adamd1985/adamd1985/blob/master/hecatus_whitelogo.png" alt="Social banner for Hecatus Research"></a>
