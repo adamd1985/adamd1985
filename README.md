@@ -9,7 +9,7 @@ I'm a Technologist, Principal Engineer, AI, and Financial Engineer.
 <p align='center'>I run with my partners the quantitative research advisory <b>Hecatus Research</b>.</p> 
 
 <p align="center">
-  <a href="https://hecatusresearch.com"><img width="200" src="https://github.com/adamd1985/adamd1985/blob/master/banner-black.png" alt="Social banner for Hecatus Research"></a>
+  <a href="https://hecatusresearch.com"><img width="200" src="https://github.com/adamd1985/adamd1985/blob/master/banner-white-blkbk.png" alt="Social banner for Hecatus Research"></a>
   <a href="https://callforatlas.com"><img width="160" src="https://github.com/adamd1985/adamd1985/blob/master/cfalogo.png" alt="Social banner for Call for Atlas"></a>
   <img width="200" src="https://github.com/adamd1985/adamd1985/blob/master/sdm-logo-transpr.png" alt="Social banner for Call for Scrumday Malta">
 </p>
