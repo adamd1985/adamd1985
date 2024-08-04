@@ -13,11 +13,3 @@ I'm a Technologist, Principal Engineer, AI, and Financial Engineer.
   <a href="https://callforatlas.com"><img width="160" src="https://github.com/adamd1985/adamd1985/blob/master/cfalogo.png" alt="Social banner for Call for Atlas"></a>
   <img width="200" src="https://github.com/adamd1985/adamd1985/blob/master/sdm-logo-transpr.png" alt="Social banner for Call for Scrumday Malta">
 </p>
-
-<p align='center'>If you love what I do, and want to show support, a cup of java.io will also do!</p>
-<p align="center">
-    <a href="https://www.buymeacoffee.com/AdamadA">
-    <img width="450" src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMi8wOC9IOEFwTHBXNmcxZVBjR1NnLmpwZ0AzMDB3XzBlLndlYnA=&creator=AdamadA&design_code=1&design_color=%23ff813f&slug=AdamadA" alt="Buy me a coffee"/>
-  </a>
-  </p>
-</p>
