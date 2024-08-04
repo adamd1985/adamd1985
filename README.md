@@ -1,6 +1,6 @@
 <h1 align='center'>Hey :wave: Adam here!</h1>
 <p align='center'>
-I'm a Technologist, Principal Engineer, AI, and Financial Engineer.
+I'm a Technologist at heart and work as a Principal, AI, and Financial Engineer.
 </p>
 <p align='center'>My tech-blogging can be found on <a href="https://medium.com/@adamdarmanin">Meduim</a>, and should you want to make use of my apps: <a href="https://replit.com/@radmada">Replit</a>
 </p>
